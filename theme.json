@@ -1,0 +1,13 @@
+[
+{
+"author" : "Kaima",
+"name" : "Theme",
+"keyWords" : "keyword1,keyword2",
+"version" : "1.0.0",
+"dofusVersion" : "2.46",
+"description" : "Description",
+"url" : "L'URL d'hébergement du thème",
+"creationDate" : "04/05/2018",
+"modificationDate" : "04/05/2018"
+}
+]
